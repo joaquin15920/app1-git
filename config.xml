@@ -2,10 +2,10 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap = "http://phonegap.com/ns/1.0"
- id = "com.phonegap.opp1"
+ id = "com.phonegap.app1"
   version = "1.0.0"> 
 
-<name> opp1-2019 Datos del Dsipositivo </name>
+<name> app1-2019 Datos del Dsipositivo </name>
 
 <description>
 Aplicacion que nos muestra la informacion refente al Dispositivo Movil 
@@ -21,7 +21,7 @@ Angel Joaquin Dominguez Bueno
 <preference name="orientation"   value="landscape"/> -->
 <preference name="target-device"     value="universal"/>
 <preference name="fullscreen"       value="true"/>
-<preference name="android-indtallLocation" value="auto"/>
+<preference name="android-installLocation" value="auto"/>
 <preference name="permissions" value="INTERNET"/>
 
 <!--Plugins-->
